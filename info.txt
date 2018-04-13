@@ -1,3 +1,8 @@
 # Info:
 # Ejemplo de una SPA con jQuery, donde se descarga un archivo y se realiza un redireccionamiento
 # Desarrollado por Jose Luis Castillo - Abril 2018
+
+
+#Problemas con la autentificación de git
+ssh -T git@github.com
+ssh -T GITHUB-USERNAME@github.com
