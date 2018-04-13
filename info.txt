@@ -1,0 +1,3 @@
+# Info:
+# Ejemplo de una SPA con jQuery, donde se descarga un archivo y se realiza un redireccionamiento
+# Desarrollado por Jose Luis Castillo - Abril 2018
